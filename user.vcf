@@ -7,7 +7,7 @@ ORG:Liberty Mutual;
 TITLE:Underwriting Consultant\nPublic Entity, Government
 EMAIL;type=INTERNET;type=WORK;type=pref:megan.harper@libertymutual.com
 TEL;type=WORK;type=VOICE:+1 469 507 9692
-item1.ADR;type=WORK;type=pref:;;1 N Franklin\nChicago, IL 60606
+item1.ADR;type=WORK;type=pref:;;1 N Franklin\nChicago\, IL;;;60606;USA
 item1.X-ABADR:sg
 item2.URL;type=pref:www.linkedin.com/in/maharper
 item2.X-ABLabel:_$!<HomePage>!$_
